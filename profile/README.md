@@ -72,6 +72,6 @@ ANNarchy (Artificial Neural Networks architect) neuro-simulator. \
 Mesh regression library of the BMBF project ML@Karoprod. \
 [code](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor)
 
-Neurobotics summer school 2002. \
+Neurobotics summer school 2022. \
 [code](https://github.com/hamkerlab/Neurorobotics_SummerSchool2022)
 
