@@ -1,4 +1,4 @@
-## Public repositories of the Hamker lab for Artificial Intelligence - Chemnitz University of Technology
+## Public repositories of the Hamker lab
 
 ### *submitted*
 
