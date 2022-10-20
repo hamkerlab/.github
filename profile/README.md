@@ -66,6 +66,9 @@ Julien Vitay and Fred H. Hamker (2014)\
 
 ### Miscellaneous
 
+ANNarchy (Artificial Neural Networks architect) neuro-simulator. \
+[code](https://github.com/ANNarchy/ANNarchy)
+
 Mesh regression library of the BMBF project ML@Karoprod. \
 [code](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor)
 
