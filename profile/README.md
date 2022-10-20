@@ -61,7 +61,7 @@ Julien Vitay (2016)\
 
 Julien Vitay and Fred H. Hamker (2014)\
 **Timing and expectation of reward: a neuro-computational model of the afferents to the ventral tegmental area**\
-*Frontiers in Neurorobotics*. 8:4. [doi:10.3389/fnbot.2014.00004](http://dx.doi.org/10.3389/fnbot.2014.00004)
+*Frontiers in Neurorobotics*. 8:4. [doi:10.3389/fnbot.2014.00004](http://dx.doi.org/10.3389/fnbot.2014.00004)\
 [code](https://github.com/hamkerlab/Vitay2014-TimingReward)
 
 ### Miscellaneous
