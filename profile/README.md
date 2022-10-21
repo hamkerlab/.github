@@ -26,6 +26,11 @@ Larisch, R., Teichmann, M., Gönner, L., Hamker, F.H. (2021) \
 *PLOS Computational Biology*, 17(11):e1009566. [doi:10.1371/journal.pcbi.1009566](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009566)\
 [code](https://github.com/hamkerlab/Larisch2021_PLOSComBio)
 
+Maith, O., Schwarz, A., Hamker, F.H. (2021)\
+**Optimal Attention Tuning in a neuro-computational Model of the Visual Cortex - Basal Ganglia - Prefrontal Cortex Loop**\
+*Neural Networks*, 142:534-547. [doi:10.1016/j.neunet.2021.07.008](https://doi.org/10.1016/j.neunet.2021.07.008)\
+[code](https://github.com/hamkerlab/Maith2021-CognitiveLearningAgent)
+
 Teichmann, M., Larisch, R., Hamker, F.H. (2021) \
 **Performance of biologically grounded models of the early visual system on standard object recognition tasks**\
 *Neural Networks*, 144:210-228. [doi:10.1016/j.neunet.2021.08.009](https://doi.org/10.1016/j.neunet.2021.08.009)\
