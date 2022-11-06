@@ -55,6 +55,13 @@ Schmid, K., Vitay, J., Hamker, F. H. (2019)\
 *Conference on Cognitive Computational Neuroscience*. 13-16 September 2019, Berlin, Germany. [doi:10.32470/CCN.2019.1139-0](http://dx.doi.org/10.32470/CCN.2019.1139-0)\
 [code](https://github.com/hamkerlab/Schmid2019-CerebellumForwardModel)
 
+### 2017
+
+Lorenz Gönner, Julien Vitay, and Fred H. Hamker (2017). \
+**Predictive Place-Cell Sequences for Goal-Finding Emerge from Goal Memory and the Cognitive Map: A Computational Model.**\
+*Frontiers in Computational Neuroscience* 11:84. [doi:10.3389/fncom.2017.00084](https://doi.org/10.3389/fncom.2017.00084)\
+[code](https://github.com/hamkerlab/Goenner2017-PredictivePlaceCells)
+
 ### 2016
 
 Julien Vitay (2016)\
