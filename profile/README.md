@@ -2,6 +2,10 @@
 
 ### *submitted*
 
+Burkhardt, M., Bergelt, J., Gönner, L., Dinkelbach, H.Ü., Beuth, F., Schwarz, A., Bicanski, A., Burgess, N., Hamker, F. H.\
+**A Large-scale Neurocomputational Model of Spatial Cognition Integrating Memory with Vision**\
+*Submitted.*\
+
 Maith, O., Baladron, J., Einhäuser, W., Hamker, F. H. (2022) \
 **Human exploration behaviour in a novel reversal learning task explained by a basal ganglia model with adaptive STN-GPe connections.**\
 *Submitted.*\
