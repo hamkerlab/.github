@@ -7,9 +7,17 @@ Burkhardt, M., Bergelt, J., Gönner, L., Dinkelbach, H.Ü., Beuth, F., Schwarz, 
 *Submitted.*\
 [code](https://github.com/hamkerlab/Burkhardt2023_SpatialCognition)
 
-Maith, O., Baladron, J., Einhäuser, W., Hamker, F. H. (2022) \
-**Human exploration behaviour in a novel reversal learning task explained by a basal ganglia model with adaptive STN-GPe connections.**\
-*Submitted.*\
+### 2023
+
+Baladron, J., Vitay, J., Fietzek, T. and Hamker, F. H. (2023)\
+**The contribution of the basal ganglia and cerebellum to motor learning: a neuro-computational approach**\
+*PLoS Comput Biol 19(4): e1011024*. [doi:10.1371/journal.pcbi.1011024](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011024)\
+[code](https://github.com/hamkerlab/Baladron2023-MotorLearning-BG-Cereb)
+
+
+Maith, O., Baladron, J., Einhäuser, W., Hamker, F. H. (2023) \
+**Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model**\
+*iScience 26(5).* [doi:10.1016/j.isci.2023.106599](https://doi.org/10.1016/j.isci.2023.106599)\
 [code](https://github.com/hamkerlab/Maith2021_ANNarchyBOLDmonitor)
 
 ### 2022
