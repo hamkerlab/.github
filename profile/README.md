@@ -18,7 +18,7 @@ Baladron, J., Vitay, J., Fietzek, T. and Hamker, F. H. (2023)\
 Maith, O., Baladron, J., Einhäuser, W., Hamker, F. H. (2023) \
 **Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model**\
 *iScience 26(5).* [doi:10.1016/j.isci.2023.106599](https://doi.org/10.1016/j.isci.2023.106599)\
-[code](https://github.com/hamkerlab/Maith2021_ANNarchyBOLDmonitor)
+[code](https://github.com/hamkerlab/Maith2022_ExplorationSTNGPe)
 
 ### 2022
 
