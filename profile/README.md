@@ -2,12 +2,11 @@
 
 ### *submitted*
 
+### 2023
 Burkhardt, M., Bergelt, J., Gönner, L., Dinkelbach, H.Ü., Beuth, F., Schwarz, A., Bicanski, A., Burgess, N., Hamker, F. H. (2023)\
 **A Large-scale Neurocomputational Model of Spatial Cognition Integrating Memory with Vision**\
-*Submitted.*\
+*Neural Networks*, 167:473-488. [doi:10.1016/j.neunet.2023.08.034](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004550)\
 [code](https://github.com/hamkerlab/Burkhardt2023_SpatialCognition)
-
-### 2023
 
 Baladron, J., Vitay, J., Fietzek, T. and Hamker, F. H. (2023)\
 **The contribution of the basal ganglia and cerebellum to motor learning: a neuro-computational approach**\
