@@ -3,6 +3,12 @@
 ### *submitted*
 
 ### 2023
+
+Larisch, R., Berger, L., Hamker, F. H. (2023)\
+**Exploring the Role of Feedback Inhibition for the Robustness Against Corruptions on Event-Based Data**\
+*ICANN 2023. LNCS* Volume 14261. Springer, Cham. [doi:10.1007/978-3-031-44198-1_17](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_17)\
+[code](https://github.com/hamkerlab/Larisch2023_EventBasedSNN) 
+
 Burkhardt, M., Bergelt, J., Gönner, L., Dinkelbach, H.Ü., Beuth, F., Schwarz, A., Bicanski, A., Burgess, N., Hamker, F. H. (2023)\
 **A Large-scale Neurocomputational Model of Spatial Cognition Integrating Memory with Vision**\
 *Neural Networks*, 167:473-488. [doi:10.1016/j.neunet.2023.08.034](https://www.sciencedirect.com/science/article/abs/pii/S0893608023004550)\
@@ -12,7 +18,6 @@ Baladron, J., Vitay, J., Fietzek, T. and Hamker, F. H. (2023)\
 **The contribution of the basal ganglia and cerebellum to motor learning: a neuro-computational approach**\
 *PLoS Comput Biol 19(4): e1011024*. [doi:10.1371/journal.pcbi.1011024](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011024)\
 [code](https://github.com/hamkerlab/Baladron2023-MotorLearning-BG-Cereb)
-
 
 Maith, O., Baladron, J., Einhäuser, W., Hamker, F. H. (2023) \
 **Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model**\
