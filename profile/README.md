@@ -4,6 +4,11 @@
 
 ### 2023
 
+Larisch, R., Vitay, J., Hamker, F. H. (2023)\
+**Detecting Anomalies in System Logs With a Compact Convolutional Transformer**\
+*IEEE Access*, Volume 11 [doi:10.1109/ACCESS.2023.3323252](https://ieeexplore.ieee.org/document/10285328)\
+[code](https://github.com/hamkerlab/Larisch2023_Detecting_Anomalies)
+
 Larisch, R., Berger, L., Hamker, F. H. (2023)\
 **Exploring the Role of Feedback Inhibition for the Robustness Against Corruptions on Event-Based Data**\
 *ICANN 2023. LNCS* Volume 14261. Springer, Cham. [doi:10.1007/978-3-031-44198-1_17](https://link.springer.com/chapter/10.1007/978-3-031-44198-1_17)\
