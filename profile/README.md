@@ -3,7 +3,7 @@
 ### *submitted*
 Maith, O., Apenburg, D., Hamker, F. H. (2024)\
 **Pallidal deep brain stimulation enhances habitual behavior in a neuro-computational basal ganglia model during a reward reversal learning task**\
-*European Journal of Neuroscience*, submitted
+*European Journal of Neuroscience*, submitted\
 [code](https://github.com/hamkerlab/Maith2024_DBS_Habit)
 
 ### 2023
