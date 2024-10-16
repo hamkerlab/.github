@@ -71,6 +71,11 @@ Goenner, L., Maith, O., Koulouri, I., Baladron, J., Hamker, F.H. (2020)\
 
 ### 2019
 
+Bergelt, J., Hamker, F.H. (2019)\
+**Spatial updating of attention across eye movements: A neuro-computational approach**\
+*Journal of Vision*, 19(7):10, 1-23. [doi:10.1167/19.7.10](http://dx.doi.org/10.1167/19.7.10)\
+[code](https://github.com/hamkerlab/Bergelt2019_UpdatingOfAttention)
+
 Dinkelbach, H.Ü., Vitay, J., Hamker, F.H. (2019)\
 **Scalable simulation of rate-coded and spiking neural networks on shared memory systems**\
 *Conference on Cognitive Computational Neuroscience*. 13-16 September 2019, Berlin, Germany. [doi:10.32470/CCN.2019.1109-0](http://dx.doi.org/10.32470/CCN.2019.1109-0)\
