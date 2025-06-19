@@ -8,6 +8,13 @@ Maith, O., Apenburg, D., Hamker, F. H. (2025)\
 *European Journal of Neuroscience*, Volume 61:e70130 [doi:10.1111/ejn.70130](https://doi.org/10.1111/ejn.70130)\
 [code](https://github.com/hamkerlab/Maith2024_DBS_Habit)
 
+### 2024
+
+Fietzek, T., Ruff, C., Hamker. F.H. (2024)
+**A Brain-Inspired Model of Reaching and Adaptation on the iCub Robot**\
+*2024 IEEE International Symposium on Robotic and Sensors Environments (ROSE)*. p. 1-7. [doi:10.1109/ROSE62198.2024.10591174](http://dx.doi.org/10.1109/ROSE62198.2024.10591174).\
+[code](https://github.com/hamkerlab/Fietzek2024_Reaching_Adaptation_iCub)
+
 ### 2023
 
 Larisch, R., Vitay, J., Hamker, F. H. (2023)\
