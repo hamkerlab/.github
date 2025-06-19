@@ -1,9 +1,11 @@
 ## Public repositories of the Hamker lab
 
 ### *submitted*
-Maith, O., Apenburg, D., Hamker, F. H. (2024)\
+
+### 2025
+Maith, O., Apenburg, D., Hamker, F. H. (2025)\
 **Pallidal deep brain stimulation enhances habitual behavior in a neuro-computational basal ganglia model during a reward reversal learning task**\
-*European Journal of Neuroscience*, submitted\
+*European Journal of Neuroscience*, Volume 61:e70130 [doi:10.1111/ejn.70130](https://doi.org/10.1111/ejn.70130)\
 [code](https://github.com/hamkerlab/Maith2024_DBS_Habit)
 
 ### 2023
