@@ -10,7 +10,7 @@ Maith, O., Apenburg, D., Hamker, F. H. (2025)\
 
 ### 2024
 
-Fietzek, T., Ruff, C., Hamker. F.H. (2024)
+Fietzek, T., Ruff, C., Hamker. F.H. (2024)\
 **A Brain-Inspired Model of Reaching and Adaptation on the iCub Robot**\
 *2024 IEEE International Symposium on Robotic and Sensors Environments (ROSE)*. p. 1-7. [doi:10.1109/ROSE62198.2024.10591174](http://dx.doi.org/10.1109/ROSE62198.2024.10591174).\
 [code](https://github.com/hamkerlab/Fietzek2024_Reaching_Adaptation_iCub)
