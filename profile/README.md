@@ -138,7 +138,7 @@ Contextual Navigation Framework of the EU-funded CAVAA project \
 Mesh regression library of the BMBF project ML@Karoprod. \
 [code](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor)
 
-Microcedential "Deep Learning for Practitioners" \
+Microcredential "Deep Learning for Practitioners" \
 [code](https://github.com/hamkerlab/DL_for_practitioners)
 
 Neurobotics summer school 2022. \
