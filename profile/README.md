@@ -2,7 +2,18 @@
 
 ### *submitted*
 
+Bergelt, J., Hamker, F.H. \
+**Perisaccadic attentional updating in Area V4: A neuro-computational approach**\
+European Journal of Neuroscience (EJN)\
+[code](https://github.com/hamkerlab/Bergelt2025_AttentionalUpdatingInV4)
+
 ### 2025
+
+Stocks, N., Hamker, F.H. (2025)\
+**Bridging Conflicting Views on Eye-Position Signals: A Neurocomputational Approach to Perisaccadic Perception**\
+European Journal of Neuroscience (EJN), 62(3):e70207. [doi:10.1111/ejn.70207](https://doi.org/10.1111/ejn.70207).\
+[code](https://github.com/hamkerlab/Stocks2025_Eye_Position_Decoder)
+
 Maith, O., Apenburg, D., Hamker, F. H. (2025)\
 **Pallidal deep brain stimulation enhances habitual behavior in a neuro-computational basal ganglia model during a reward reversal learning task**\
 *European Journal of Neuroscience*, Volume 61:e70130 [doi:10.1111/ejn.70130](https://doi.org/10.1111/ejn.70130)\
@@ -121,8 +132,14 @@ Julien Vitay and Fred H. Hamker (2014)\
 ANNarchy (Artificial Neural Networks architect) neuro-simulator. \
 [code](https://github.com/ANNarchy/ANNarchy)
 
+Contextual Navigation Framework of the EU-funded CAVAA project \
+[code](https://github.com/hamkerlab/CAVAA-ContextualNavigation)
+
 Mesh regression library of the BMBF project ML@Karoprod. \
 [code](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor)
+
+Microcedential "Deep Learning for Practitioners" \
+[code](https://github.com/hamkerlab/DL_for_practitioners)
 
 Neurobotics summer school 2022. \
 [code](https://github.com/hamkerlab/Neurorobotics_SummerSchool2022)
