@@ -14,6 +14,11 @@ Stocks, N., Hamker, F.H. (2025)\
 European Journal of Neuroscience (EJN), 62(3):e70207. [doi:10.1111/ejn.70207](https://doi.org/10.1111/ejn.70207).\
 [code](https://github.com/hamkerlab/Stocks2025_Eye_Position_Decoder)
 
+Larisch, R., Hamker, F.H. (2025)\
+**A systematic analysis of the joint effects of ganglion cells, lagged LGN cells, and intercortical inhibition on spatiotemporal processing and direction selectivity**\
+Neural Networks, 186:107273. [doi:10.1016/j.neunet.2025.107273](http://dx.doi.org/10.1016/j.neunet.2025.107273).\
+[code](https://github.com/hamkerlab/Larisch2024_Spatiotemporal_Processing)
+
 Maith, O., Apenburg, D., Hamker, F. H. (2025)\
 **Pallidal deep brain stimulation enhances habitual behavior in a neuro-computational basal ganglia model during a reward reversal learning task**\
 *European Journal of Neuroscience*, Volume 61:e70130 [doi:10.1111/ejn.70130](https://doi.org/10.1111/ejn.70130)\
