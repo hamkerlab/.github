@@ -2,12 +2,12 @@
 
 ### *submitted*
 
-Bergelt, J., Hamker, F.H. \
-**Perisaccadic attentional updating in Area V4: A neuro-computational approach**\
-European Journal of Neuroscience (EJN)\
-[code](https://github.com/hamkerlab/Bergelt2025_AttentionalUpdatingInV4)
-
 ### 2025
+
+Bergelt, J., Hamker, F.H. (2025)\
+**Perisaccadic attentional updating in Area V4: A neuro-computational approach**\
+European Journal of Neuroscience (EJN), 62(12):e70354. [doi:10.1111/ejn.70354](https://doi.org/10.1111/ejn.70354)\
+[code](https://github.com/hamkerlab/Bergelt2025_AttentionalUpdatingInV4)
 
 Stocks, N., Hamker, F.H. (2025)\
 **Bridging Conflicting Views on Eye-Position Signals: A Neurocomputational Approach to Perisaccadic Perception**\
