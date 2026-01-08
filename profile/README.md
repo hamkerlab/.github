@@ -149,3 +149,5 @@ Microcredential "Deep Learning for Practitioners" \
 Neurobotics summer school 2022. \
 [code](https://github.com/hamkerlab/Neurorobotics_SummerSchool2022)
 
+OnShape-CAD-Parser \
+[code](https://github.com/hamkerlab/onshape-cad-parser)
