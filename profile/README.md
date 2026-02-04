@@ -2,6 +2,10 @@
 
 ### *submitted*
 
+Gönner, L., Syniawa, E., Hamker, F. H. (2026)\
+**Resolving Discrete vs. Continuous Dynamics in Hippocampal Place-Cell Sequences: A Methodological Approach to Decoding Sequential Activity**\
+[code](https://github.com/hamkerlab/Goenner2026_Decoding_Sequence_Dynamics)
+
 ### 2025
 
 Bergelt, J., Hamker, F.H. (2025)\
