@@ -6,6 +6,10 @@ Gönner, L., Syniawa, E., Hamker, F. H. (2026)\
 **Resolving Discrete vs. Continuous Dynamics in Hippocampal Place-Cell Sequences: A Methodological Approach to Decoding Sequential Activity**\
 [code](https://github.com/hamkerlab/Goenner2026_Decoding_Sequence_Dynamics)
 
+Habibi, S. H., Bergelt, J., Techmann, M., Hamker, F.H. (2026)\
+**Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions.**\
+[code](https://github.com/hamkerlab/Habibi2026_Tokenization_CADmodels)
+
 ### 2025
 
 Bergelt, J., Hamker, F.H. (2025)\
