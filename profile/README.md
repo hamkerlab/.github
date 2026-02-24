@@ -6,25 +6,28 @@ Gönner, L., Syniawa, E., Hamker, F. H. (2026)\
 **Resolving Discrete vs. Continuous Dynamics in Hippocampal Place-Cell Sequences: A Methodological Approach to Decoding Sequential Activity**\
 [code](https://github.com/hamkerlab/Goenner2026_Decoding_Sequence_Dynamics)
 
+### 2026
+
 Habibi, S. H., Bergelt, J., Techmann, M., Hamker, F.H. (2026)\
-**Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions.**\
+**Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions**\
+*International Symposium on Hybrid Intelligence in Product and Production Engineering* (accepted)\
 [code](https://github.com/hamkerlab/Habibi2026_Tokenization_CADmodels)
 
 ### 2025
 
 Bergelt, J., Hamker, F.H. (2025)\
 **Perisaccadic attentional updating in Area V4: A neuro-computational approach**\
-European Journal of Neuroscience (EJN), 62(12):e70354. [doi:10.1111/ejn.70354](https://doi.org/10.1111/ejn.70354)\
+*European Journal of Neuroscience (EJN)*, 62(12):e70354. [doi:10.1111/ejn.70354](https://doi.org/10.1111/ejn.70354)\
 [code](https://github.com/hamkerlab/Bergelt2025_AttentionalUpdatingInV4)
 
 Stocks, N., Hamker, F.H. (2025)\
 **Bridging Conflicting Views on Eye-Position Signals: A Neurocomputational Approach to Perisaccadic Perception**\
-European Journal of Neuroscience (EJN), 62(3):e70207. [doi:10.1111/ejn.70207](https://doi.org/10.1111/ejn.70207).\
+*European Journal of Neuroscience (EJN)*, 62(3):e70207. [doi:10.1111/ejn.70207](https://doi.org/10.1111/ejn.70207).\
 [code](https://github.com/hamkerlab/Stocks2025_Eye_Position_Decoder)
 
 Larisch, R., Hamker, F.H. (2025)\
 **A systematic analysis of the joint effects of ganglion cells, lagged LGN cells, and intercortical inhibition on spatiotemporal processing and direction selectivity**\
-Neural Networks, 186:107273. [doi:10.1016/j.neunet.2025.107273](http://dx.doi.org/10.1016/j.neunet.2025.107273).\
+*Neural Networks*, 186:107273. [doi:10.1016/j.neunet.2025.107273](http://dx.doi.org/10.1016/j.neunet.2025.107273).\
 [code](https://github.com/hamkerlab/Larisch2024_Spatiotemporal_Processing)
 
 Maith, O., Apenburg, D., Hamker, F. H. (2025)\
