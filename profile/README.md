@@ -10,7 +10,7 @@ Gönner, L., Syniawa, E., Hamker, F. H. (2026)\
 
 Habibi, S. H., Bergelt, J., Techmann, M., Hamker, F.H. (2026)\
 **Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions**\
-*International Symposium on Hybrid Intelligence in Product and Production Engineering*. [doi:10.17619/UNIPB/1-2654](http://dx.doi.org/10.17619/UNIPB/1-2654)\
+*International Symposium on Hybrid Intelligence in Product and Production Engineering*. 24-26 March 2026, Paderborn, Germany. [doi:10.17619/UNIPB/1-2654](http://dx.doi.org/10.17619/UNIPB/1-2654)\
 [code](https://github.com/hamkerlab/Habibi2026_Tokenization_CADmodels)
 
 ### 2025
