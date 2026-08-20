@@ -10,7 +10,7 @@ Gönner, L., Syniawa, E., Hamker, F. H. (2026)\
 
 Habibi, S. H., Bergelt, J., Techmann, M., Hamker, F.H. (2026)\
 **Influence of Tokenization Strategies on the Prediction of CAD Model Descriptions**\
-*International Symposium on Hybrid Intelligence in Product and Production Engineering* (accepted)\
+*International Symposium on Hybrid Intelligence in Product and Production Engineering*. [doi:10.17619/UNIPB/1-2654](http://dx.doi.org/10.17619/UNIPB/1-2654)\
 [code](https://github.com/hamkerlab/Habibi2026_Tokenization_CADmodels)
 
 ### 2025
@@ -130,6 +130,11 @@ Lorenz Gönner, Julien Vitay, and Fred H. Hamker (2017). \
 [code](https://github.com/hamkerlab/Goenner2017-PredictivePlaceCells)
 
 ### 2016
+
+Bergelt, J., Hamker, F. H. (2016)\
+**Suppression of displacement detection in the presence and absence of eye movements: A neuro-computational perspective.**\
+Biological Cybernetics, 110:81-89. [doi:10.1007/s00422-015-0677-z](https://doi.org/10.1007/s00422-015-0677-z)\
+[code](https://github.com/hamkerlab/Bergelt2016_Suppression_of_displacement)
 
 Julien Vitay (2016)\
 **[Re] Robust timing and motor patterns by taming chaos in recurrent neural networks**\
